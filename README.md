@@ -7,5 +7,6 @@ This repository contains a Java implementation of a solver for the Liquid Sort p
 
 To run the tests for the Liquid Sort Solver, you can use the following command:
 
-```bashmvn test
+```
+mvn test
 ```
